@@ -1,0 +1,3 @@
+1. Il numero (3409650042) è già impostato in script.js e negli href di index.html.
+2. Carica i file su un repository GitHub e attiva GitHub Pages (Settings > Pages > branch main, cartella root).
+3. Sostituisci la foto Unsplash dell'hero con una foto reale dell'officina (style.css, .hero-img).
